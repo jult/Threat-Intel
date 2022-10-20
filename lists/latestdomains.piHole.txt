@@ -178,7 +178,6 @@
 0.0.0.0 universostoresp.com.br
 0.0.0.0 vishalt.com
 0.0.0.0 vivonodesigns.com
-0.0.0.0 vk.com
 0.0.0.0 vocebronzeadora.com.br
 0.0.0.0 vrkspa.cl
 0.0.0.0 vsbnews.in
